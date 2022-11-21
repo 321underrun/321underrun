@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @321underrun
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---Hi, first I am very sorry because I am not a developer or tech engineer. I came across OVLP trying to solve another problem searching YouTube. I do appreciate the care for the environment by you all creating a way
+To extend the life of computers which delays them going to some dump. I did the upgrade of OS X El Capitan to macOS 10 and then to macOS 12. Everything went very will-the instructions sheet along with watching a video on YouTube 
+at the same time. However, I did get one major problem: for some reason I now cannot copy to, drag n'drop or anything with my MacPro Book hard drive. The macOS Monterey will let me open it up and that's all. I can put old files from 
+external hard drives or thumb drives....but nothing to my hard drive. Can you help me please? Thank you in advance for your time and consideration!
+321underrun/321underrun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
